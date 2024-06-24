@@ -105,7 +105,7 @@
 	vertical-align:middle;
 	font-size:80px;
 	color:rgba(255,255,255,.5);
-	color:#2E99E5;
+	color:#E74C3C;
 }
 .play-button:hover > .fa:before{
 	color:#c00;
